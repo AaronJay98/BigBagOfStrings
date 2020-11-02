@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aaronjay/CLionProjects/bigbag/bigbag.c
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+sys/mman.h
+-
+zconf.h
+-
+netinet/in.h
+-
+memory.h
+-
+bigbag.h
+/home/aaronjay/CLionProjects/bigbag/bigbag.h
+
+/home/aaronjay/CLionProjects/bigbag/bigbag.h
+stdint.h
+-
+

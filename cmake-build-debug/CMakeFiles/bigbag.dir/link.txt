@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/bigbag.dir/bigbag.c.o  -o bigbag 
